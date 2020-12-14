@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1607968656 source:c:\users\hp\desktop\codeblocks.cbp\task9.new\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<limits.h>
+	<float.h>
+
